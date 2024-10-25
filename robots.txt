@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marlboronews05.github.io/marlboronewss05/sitemap.xml
